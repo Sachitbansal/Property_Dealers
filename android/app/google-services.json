@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "976627112140",
+    "project_id": "property-dealer-bd140",
+    "storage_bucket": "property-dealer-bd140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976627112140:android:bae52db4b7a85c91740a69",
+        "android_client_info": {
+          "package_name": "com.example.property_dealers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976627112140-pd3n6kqlds427c98gsolsv99n9m2eehu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.property_dealers",
+            "certificate_hash": "d3b3c062aa724f9a0516864bd1c48bf451a923d5"
+          }
+        },
+        {
+          "client_id": "976627112140-qe1rjo9jc3mtbl8brqe89ed1d8d3pc7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkx6uZMjG3Ofb3NZWS_5rcy0BhGYAIxwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976627112140-qe1rjo9jc3mtbl8brqe89ed1d8d3pc7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
